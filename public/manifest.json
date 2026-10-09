@@ -1,0 +1,17 @@
+{
+  "name": "TourAI — AI Travel Recommendations & Destination Explorer",
+  "short_name": "TourAI",
+  "description": "Intelligent Indian destination matching based on your travel vibe, budget, companions, and preferences.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0284c7",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
